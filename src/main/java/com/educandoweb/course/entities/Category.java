@@ -16,8 +16,7 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 @Entity
 @Table(name = "tb_category")
 public class Category implements Serializable {
-	//comentario para teste de comite
-
+	
 	
 	private static final long serialVersionUID = 1L;
 	
